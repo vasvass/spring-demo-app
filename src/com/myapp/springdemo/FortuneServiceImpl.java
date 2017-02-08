@@ -5,6 +5,7 @@ package com.myapp.springdemo;
  *
  * @author vasvass
  */
+
 public class FortuneServiceImpl implements FortuneService {
 
 

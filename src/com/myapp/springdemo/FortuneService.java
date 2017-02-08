@@ -5,6 +5,8 @@ package com.myapp.springdemo;
  *
  * @author vasvass
  */
+
+
 public interface FortuneService {
 
      String getFortune();

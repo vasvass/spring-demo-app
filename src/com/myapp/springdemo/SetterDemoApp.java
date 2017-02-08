@@ -7,6 +7,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
  *
  * @author vasvass
  */
+
 public class SetterDemoApp {
 
 

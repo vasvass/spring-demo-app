@@ -5,6 +5,8 @@ package com.myapp.springdemo;
  *
  * @author vasvass
  */
+
+
 public class SkateboardCoach implements Coach {
 
   private FortuneService fortuneService;

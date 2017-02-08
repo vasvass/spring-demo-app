@@ -5,13 +5,14 @@ package com.myapp.springdemo;
  *
  * @author vasvass
  */
+
 public class KendoCoach implements Coach {
 
   //define a private field for the dependency
   private FortuneService fortuneService;
 
   //define a constructor for dependency injection
-  public KendoCoach(FortuneService theFortuneService) {
+  public KendoCoach (FortuneService theFortuneService) {
 
      fortuneService = theFortuneService;
   }
